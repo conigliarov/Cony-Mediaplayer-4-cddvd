@@ -1,0 +1,22 @@
+C:\Users\stella\Documents\Visual Studio 2008\Projects\Jamagic Player\Jamagic Player\Jamagic Player\obj\Debug\Jamagic Player.exe
+C:\Users\stella\Documents\Visual Studio 2008\Projects\Jamagic Player\Jamagic Player\Jamagic Player\obj\Debug\Jamagic Player.pdb
+C:\Users\stella\Documents\Visual Studio 2008\Projects\Jamagic Player\Jamagic Player\Jamagic Player\bin\Debug\Jamagic Player.exe
+C:\Users\stella\Documents\Visual Studio 2008\Projects\Jamagic Player\Jamagic Player\Jamagic Player\bin\Debug\Jamagic Player.pdb
+C:\Users\stella\Documents\Visual Studio 2008\Projects\Jamagic Player\Jamagic Player\Jamagic Player\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stella\Documents\Visual Studio 2008\Projects\Jamagic Player\Jamagic Player\Jamagic Player\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\stella\Documents\Visual Studio 2008\Projects\Jamagic Player\Jamagic Player\Jamagic Player\obj\Debug\WindowsApplication1.MatrixLib.resources
+C:\Users\stella\Documents\Visual Studio 2008\Projects\Jamagic Player\Jamagic Player\Jamagic Player\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\stella\Documents\Visual Studio 2008\Projects\Jamagic Player\Jamagic Player\Jamagic Player\obj\Debug\WindowsApplication1.Resource1.resources
+C:\Users\stella\Documents\Visual Studio 2008\Projects\Jamagic Player\Jamagic Player\Jamagic Player\obj\Debug\Jamagic Player.csproj.GenerateResource.Cache
+C:\Users\koolo\Desktop\Nuova cartella (2)\Jamagic Player\bin\Debug\Jamagic Player.exe
+C:\Users\koolo\Desktop\Nuova cartella (2)\Jamagic Player\bin\Debug\Jamagic Player.pdb
+C:\Users\koolo\Desktop\Nuova cartella (2)\Jamagic Player\obj\Debug\Jamagic Player.csprojAssemblyReference.cache
+C:\Users\koolo\Desktop\Nuova cartella (2)\Jamagic Player\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\koolo\Desktop\Nuova cartella (2)\Jamagic Player\obj\Debug\WindowsApplication1.MatrixLib.resources
+C:\Users\koolo\Desktop\Nuova cartella (2)\Jamagic Player\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\koolo\Desktop\Nuova cartella (2)\Jamagic Player\obj\Debug\WindowsApplication1.Resource1.resources
+C:\Users\koolo\Desktop\Nuova cartella (2)\Jamagic Player\obj\Debug\Jamagic Player.csproj.GenerateResource.cache
+C:\Users\koolo\Desktop\Nuova cartella (2)\Jamagic Player\obj\Debug\Jamagic Player.csproj.CoreCompileInputs.cache
+C:\Users\koolo\Desktop\Nuova cartella (2)\Jamagic Player\obj\Debug\Jamagic Player.csproj.CopyComplete
+C:\Users\koolo\Desktop\Nuova cartella (2)\Jamagic Player\obj\Debug\Jamagic Player.exe
+C:\Users\koolo\Desktop\Nuova cartella (2)\Jamagic Player\obj\Debug\Jamagic Player.pdb

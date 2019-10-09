@@ -1,0 +1,12 @@
+C:\Users\koolo\Desktop\Nuova cartella (2)\Jamagic Player\bin\Debug\Cony Mediaplayer.exe
+C:\Users\koolo\Desktop\Nuova cartella (2)\Jamagic Player\bin\Debug\Cony Mediaplayer.pdb
+C:\Users\koolo\Desktop\Nuova cartella (2)\Jamagic Player\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\koolo\Desktop\Nuova cartella (2)\Jamagic Player\obj\Debug\ConyMediaplayer.MatrixLib.resources
+C:\Users\koolo\Desktop\Nuova cartella (2)\Jamagic Player\obj\Debug\ConyMediaplayer.Properties.Resources.resources
+C:\Users\koolo\Desktop\Nuova cartella (2)\Jamagic Player\obj\Debug\ConyMediaplayer.Resource1.resources
+C:\Users\koolo\Desktop\Nuova cartella (2)\Jamagic Player\obj\Debug\Cony Mediaplayer.csproj.GenerateResource.cache
+C:\Users\koolo\Desktop\Nuova cartella (2)\Jamagic Player\obj\Debug\Cony Mediaplayer.csproj.CoreCompileInputs.cache
+C:\Users\koolo\Desktop\Nuova cartella (2)\Jamagic Player\obj\Debug\Cony Mediaplayer.csproj.CopyComplete
+C:\Users\koolo\Desktop\Nuova cartella (2)\Jamagic Player\obj\Debug\Cony Mediaplayer.exe
+C:\Users\koolo\Desktop\Nuova cartella (2)\Jamagic Player\obj\Debug\Cony Mediaplayer.pdb
+C:\Users\koolo\Desktop\Nuova cartella (2)\Jamagic Player\obj\Debug\Cony Mediaplayer.csprojAssemblyReference.cache
